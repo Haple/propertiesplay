@@ -1,0 +1,5 @@
+messages-to-override:
+  hello: "Hello from default application.yml"
+
+global-messages:
+  project: "Properties Play"
